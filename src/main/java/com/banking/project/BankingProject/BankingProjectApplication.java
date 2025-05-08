@@ -10,8 +10,7 @@ public class BankingProjectApplication {
 
 		SpringApplication.run(BankingProjectApplication.class, args);
 		
-		//SpringBootApplication Starter
-		System.Out.println("HelloWorld")
+		
 	}
 
 }
