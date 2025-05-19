@@ -11,7 +11,7 @@
 	<groupId>com.banking.project</groupId>
 	<artifactId>BankingProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BankingProject</name>
+	<name>Banking-Project</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>
