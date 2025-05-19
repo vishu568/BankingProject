@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloWorldController {
 
-// HelloWorld API
+
     //http://localhost:8080/hello-world
     @GetMapping("/hello-world")
     public String helloWorld(){
