@@ -9,9 +9,8 @@ public class BankingProjectApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(BankingProjectApplication.class, args);
-		
-		//SpringBootApplication Starterq
-		System.Out.println("HelloWorld")
+
+		System.out.println("Hello World");
 	}
 
 }
